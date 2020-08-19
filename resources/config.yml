@@ -36,5 +36,5 @@ essentials-support: false
   # If essentials-support is enabled and EssentialsPE is installed,
   # SimpleWarp will take steps to ensure compatibility between the
   # two plugins.
-hold-still-enabled: true
-hold-still-time: 60
+hold-still-enabled: false
+hold-still-time: 0
